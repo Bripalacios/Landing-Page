@@ -1,0 +1,35 @@
+
+.ConfiguracionElementos{
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 60px;
+
+}
+.title{
+font-size: 50px;
+color: aqua;
+margin-bottom: 0;
+}
+
+.Subtitle{
+margin-top: -3px;
+font-size: 23px;
+}
+
+.description{
+font-size: 22px;
+margin-top: -13px;
+}
+.invitation{
+width: 80%;
+margin-left: 30px;
+text-align: justify;
+font-size: 25px;
+margin-top: 50px;
+color: white;
+}
+
+.contact{
+margin-top: 45px;
+margin-left: 65px;
+color: white;
+}
